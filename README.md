@@ -28,4 +28,4 @@ npm install twilio
 npm install aws-sdk
 ```
 ## Get client here
-
+https://github.com/TThanhNam/DoAn_AppChatRealTime_JavaAndroid_Client
